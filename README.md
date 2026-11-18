@@ -1,61 +1,84 @@
 <div align="center">
 
-# 👋 Hola, soy Santhiago Muñoz
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=230&section=header&text=Santhiago%20Mu%C3%B1oz&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Ingenier%C3%ADa%20en%20Sistemas%20%7C%20Ciberseguridad%20%26%20DFIR%20%7C%20Backend%20%26%20Web&descSize=18&descAlignY=60&animation=fadeIn" alt="Banner" />
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Estudiante+de+Ingenier%C3%ADa+en+Sistemas;Ciberseguridad+%26+DFIR;Desarrollo+Backend+y+Web;Bases+de+Datos+%7C+Redes+%7C+IoT"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=%24+whoami+%E2%86%92+Santhiago+Mu%C3%B1oz;%24+study+--career+%22Ingenier%C3%ADa+en+Sistemas%22+--uni+UMG;%24+cert+--irsi+%22Ciberseguridad+%26+DFIR%22+%E2%9C%94;%24+build+--backend+Java+C%23+--web+Next.js+--mobile+Kotlin;%24+secure+--analyze+--investigate+--learn"
   alt="Typing SVG"
 />
 
-<br>
+<br><br>
 
-Estudiante de **Ingeniería en Sistemas** en la **Universidad Mariano Gálvez (UMG)**, con formación completada en  
-**Ciberseguridad y DFIR** en el **Information Risk & Security Institute (IRSI)**.
-
-📍 Guatemala
+<img src="https://img.shields.io/badge/UMG-Ingenier%C3%ADa_en_Sistemas-1F6FEB?style=for-the-badge&logo=academia&logoColor=white" alt="UMG" />
+<img src="https://img.shields.io/badge/IRSI-Ciberseguridad_%26_DFIR-C0392B?style=for-the-badge&logo=hackthebox&logoColor=white" alt="IRSI" />
+<img src="https://img.shields.io/badge/Guatemala-🇬🇹-4997D0?style=for-the-badge" alt="Guatemala" />
 
 </div>
 
----
+<br>
 
-## 👨‍💻 Sobre mí
+## 🧑‍💻 Sobre mí
 
-🔐 Formación completada en **Ciberseguridad** y **Digital Forensics & Incident Response (DFIR)** (IRSI)  
-🎓 Ingeniería en Sistemas (UMG) + estudios en **IRSI**  
-🗄️ Bases de datos relacionales: **SQL Server** y **MySQL**, con **Docker** para los entornos  
-⚙️ Backend con **Java + Spring Boot** y **C# / .NET**  
-🌐 Frontend con **Next.js, React y TypeScript**  
-📱 Apps móviles con **Kotlin** y proyectos IoT con **ESP32 / Arduino**  
-🧱 Me importa la arquitectura limpia: capas, separación de responsabilidades y documentación
+```yaml
+nombre:      Santhiago Muñoz
+ubicación:   Guatemala 🇬🇹
+estudios:
+  - Ingeniería en Sistemas — Universidad Mariano Gálvez (UMG)
+  - Ciberseguridad & DFIR — Information Risk & Security Institute (IRSI) ✔ completado
+enfoque:     [Ciberseguridad, DFIR, Backend, Bases de Datos, Desarrollo Web, IoT]
+me_gusta:    Arquitectura limpia · documentación · trabajo en equipo · Docker
+```
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🛡️ Seguridad
+- Digital Forensics & Incident Response
+- Análisis de evidencia y cadena de custodia
+- Análisis de logs y triage de incidentes
+- Gestión de riesgo de la información
+- Autenticación y autorización (JWT, roles)
+
+</td>
+<td width="50%" valign="top">
+
+### ⚙️ Desarrollo
+- Backend con **Java / Spring Boot** y **C# / .NET**
+- Frontend con **Next.js, React y TypeScript**
+- Apps móviles con **Kotlin** y **React Native**
+- IoT con **ESP32 / Arduino**
+- Bases de datos con **PostgreSQL, SQL Server y MySQL**
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🎓 Educación
 
-| Institución | Formación |
-|---|---|
-| 🏛️ **Universidad Mariano Gálvez de Guatemala (UMG)** | Ingeniería en Sistemas |
-| 🛡️ **Information Risk & Security Institute (IRSI)** | Ciberseguridad · Gestión de riesgo de la información · DFIR |
+<div align="center">
+
+| 🏛️ Institución | 📘 Formación | 📌 Estado |
+|:---|:---|:---:|
+| **Universidad Mariano Gálvez de Guatemala (UMG)** | Ingeniería en Sistemas | 🎓 En curso |
+| **Information Risk & Security Institute (IRSI)** | Ciberseguridad · Riesgo de la información · **DFIR** | ✅ Culminado |
+
+</div>
 
 ---
 
-## 🔐 Ciberseguridad y DFIR
+## 🔐 Ciberseguridad & DFIR
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/IRSI-Information_Risk_%26_Security_Institute-0B3D91?style=for-the-badge" alt="IRSI" />
-<img src="https://img.shields.io/badge/DFIR-Forensics_%26_Incident_Response-C0392B?style=for-the-badge" alt="DFIR" />
+<img src="https://img.shields.io/badge/IRSI-0B3D91?style=for-the-badge" alt="IRSI" />
+<img src="https://img.shields.io/badge/DFIR-C0392B?style=for-the-badge" alt="DFIR" />
+<img src="https://img.shields.io/badge/Digital_Forensics-6C3483?style=for-the-badge" alt="Digital Forensics" />
+<img src="https://img.shields.io/badge/Incident_Response-D35400?style=for-the-badge" alt="Incident Response" />
+<img src="https://img.shields.io/badge/Risk_Management-117A65?style=for-the-badge" alt="Risk Management" />
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-
-<br><br>
-
-`Digital Forensics` • `Incident Response` • `Análisis de evidencia digital`
-
-`Cadena de custodia` • `Análisis de logs` • `Triage de incidentes`
-
-`Gestión de riesgo de la información` • `Seguridad de la información`
-
-`Autenticación` • `Autorización (JWT / roles)` • `Desarrollo seguro`
 
 </div>
 
@@ -63,48 +86,102 @@ Estudiante de **Ingeniería en Sistemas** en la **Universidad Mariano Gálvez (U
 
 ## 🚀 Proyectos destacados
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ☕ CoffeePOS · *MesaFlow*
+<sub>🔒 Proyecto en equipo · repositorios privados</sub>
+
+Sistema para la operación de un restaurante: **web pública**, **panel operativo con KDS** (pantalla de cocina), **app móvil para meseros** y **API REST** con roles, JWT, rate limiting y documentación OpenAPI. Monorepo con **Turborepo + pnpm** y backend con **PostgreSQL en alta disponibilidad (Patroni)**, Redis, Liquibase y observabilidad.
+
+`Next.js` `TypeScript` `React Native · Expo` `Java 21` `Spring Boot` `PostgreSQL` `Redis` `Docker`
+
+</td>
+<td width="50%" valign="top">
+
 ### 🧬 [BioAsistencia-UMG](https://github.com/SanthiagoMun017/BioAsistencia-UMG)
-Sistema de **control de asistencia biométrica** para catedráticos: sensor de huella **AS608** con **ESP32/Arduino**, app **Android (Kotlin, MVVM)**, **API REST con JWT** y **MySQL 8 en Docker**. Proyecto final de Análisis de Sistemas I y Arquitectura de Computadoras I.  
+<sub>🌐 Público · Análisis de Sistemas I + Arquitectura de Computadoras I</sub>
+
+**Asistencia biométrica** para catedráticos: sensor de huella **AS608** con **ESP32/Arduino**, app **Android (Kotlin, MVVM)**, **API REST con JWT** y **MySQL 8 en Docker**, con reportes gráficos y polling del sensor en tiempo real.
+
 `Kotlin` `C++` `PHP` `MySQL` `Docker` `JWT` `Retrofit`
 
-### 🏫 Sistema de Gestión Escolar *(repositorio privado)*
-Aplicación de escritorio **offline** en **C# / .NET** (arquitectura Domain · Application · Infrastructure) para gestionar alumnos, asistencia, calificaciones, boletines en Excel/PDF y respaldos, con instalador propio (**Inno Setup**). Proyecto final de Análisis de Sistemas II.  
-`C#` `.NET` `Inno Setup` `Clean Architecture`
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### 🗃️ Proyecto Base de Datos I *(repositorio privado)*
-Aplicación **Spring Boot 3 + Thymeleaf + JPA** conectada a **SQL Server 2022** en contenedor Docker.  
+### 🏫 Sistema de Gestión Escolar
+<sub>🔒 Privado · Análisis de Sistemas II</sub>
+
+Aplicación de escritorio **100 % offline** en **C# / .NET** con capas *Domain · Application · Infrastructure*: alumnos, asistencia, calificaciones, **boletines en Excel/PDF**, respaldos y **instalador propio (Inno Setup)**.
+
+`C#` `.NET` `Clean Architecture` `Inno Setup`
+
+</td>
+<td width="50%" valign="top">
+
+### 🗃️ Proyecto Base de Datos I
+<sub>🔒 Privado · Bases de Datos I</sub>
+
+Aplicación **Spring Boot 3 + Thymeleaf + JPA** conectada a **SQL Server 2022** en contenedor Docker.
+
 `Java` `Spring Boot` `SQL Server` `Docker`
 
-### 📊 Proyectos de Métodos Numéricos *(repositorios privados)*
-Apps en **MATLAB** con distribuciones estadísticas, generación de datos y gestión de usuarios con base de datos.  
+<br>
+
+### 📊 Métodos Numéricos
+<sub>🔒 Privado</sub>
+
+Apps en **MATLAB** con distribuciones estadísticas, generación de datos y gestión de usuarios con base de datos.
+
 `MATLAB` `Estadística`
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠️ Tecnologías
+## 🛠️ Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,kotlin,cpp,php,js,ts,matlab" alt="Lenguajes y frameworks backend" />
+**Lenguajes**
 
-<br><br>
+<img src="https://skillicons.dev/icons?i=java,cs,kotlin,cpp,php,ts,js,matlab" alt="Lenguajes" />
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,nodejs,android,arduino" alt="Frontend, móvil e IoT" />
+**Frameworks**
 
-<br><br>
+<img src="https://skillicons.dev/icons?i=spring,dotnet,nextjs,react,tailwind,nodejs,android" alt="Frameworks" />
 
-<img src="https://skillicons.dev/icons?i=mysql,mssql,docker,git,github,linux,vscode,androidstudio,postman" alt="Bases de datos y herramientas" />
+**Datos & infraestructura**
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mssql,redis,docker,linux,arduino" alt="Datos e infraestructura" />
+
+**Herramientas**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,idea,postman" alt="Herramientas" />
 
 </div>
 
 ---
 
-## 📈 GitHub Stats
+## 📊 Estadísticas
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SanthiagoMun017&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanthiagoMun017&layout=compact&theme=tokyonight&hide_border=true" alt="Top lenguajes" />
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=SanthiagoMun017&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanthiagoMun017&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top lenguajes" />
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SanthiagoMun017&theme=tokyonight&hide_border=true" alt="Streak" />
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SanthiagoMun017&theme=tokyo-night&hide_border=true&area=true" alt="Actividad" />
 
 </div>
 
@@ -116,15 +193,15 @@ Apps en **MATLAB** con distribuciones estadísticas, generación de datos y gest
 
 <img src="https://img.shields.io/badge/DFIR-C0392B?style=for-the-badge" alt="DFIR" />
 <img src="https://img.shields.io/badge/Cybersecurity-111111?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" alt="Cybersecurity" />
-<img src="https://img.shields.io/badge/Linux_Security-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Security" />
-<img src="https://img.shields.io/badge/Database_Security-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="Database Security" />
 <img src="https://img.shields.io/badge/Backend_Security-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Backend Security" />
+<img src="https://img.shields.io/badge/Database_Security-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="Database Security" />
+<img src="https://img.shields.io/badge/Linux_Security-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Security" />
 
 </div>
 
----
-
 <div align="center">
+
+<br>
 
 ### 🔐 Secure • Investigate • Learn • Build
 
@@ -133,8 +210,8 @@ Apps en **MATLAB** con distribuciones estadísticas, generación de datos y gest
   alt="Animated Footer"
 />
 
-<br>
-
 ⭐ Gracias por visitar mi perfil
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=110&section=footer" alt="Footer" />
 
 </div>
