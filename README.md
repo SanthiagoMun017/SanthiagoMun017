@@ -76,9 +76,9 @@ Estudiante de **Ingeniería en Sistemas** con formación en
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,postgres,mysql,mssql,redis,docker" alt="Backend and database technologies" />
+<img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,postgres,mysql,redis,docker" alt="Backend and database technologies" />
 
-<br><br>
+<br>
 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
@@ -95,9 +95,9 @@ Estudiante de **Ingeniería en Sistemas** con formación en
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,html,css,nodejs,kotlin,android,arduino" alt="Web, mobile and IoT technologies" />
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,html,css,nodejs,kotlin,arduino" alt="Web, mobile and IoT technologies" />
 
-<br><br>
+<br>
 
 `Next.js` • `React` • `TypeScript` • `Tailwind CSS`
 
