@@ -94,7 +94,7 @@ Bases de datos con **PostgreSQL, SQL Server y MySQL**<br>
 <tr>
 <td width="50%" valign="top" align="center">
 
-<h3 align="center">☕ CoffeePOS · *MesaFlow*</h3>
+<h3 align="center">☕ CoffeePOS · <i>MesaFlow</i></h3>
 <sub>🔒 Proyecto en equipo · repositorios privados</sub>
 
 Sistema para la operación de un restaurante: **web pública**, **panel operativo con KDS** (pantalla de cocina), **app móvil para meseros** y **API REST** con roles, JWT, rate limiting y documentación OpenAPI. Monorepo con **Turborepo + pnpm** y backend con **PostgreSQL en alta disponibilidad (Patroni)**, Redis, Liquibase y observabilidad.
@@ -104,7 +104,7 @@ Sistema para la operación de un restaurante: **web pública**, **panel operativ
 </td>
 <td width="50%" valign="top" align="center">
 
-<h3 align="center">🧬 [BioAsistencia-UMG](https://github.com/SanthiagoMun017/BioAsistencia-UMG)</h3>
+<h3 align="center">🧬 <a href="https://github.com/SanthiagoMun017/BioAsistencia-UMG">BioAsistencia-UMG</a></h3>
 <sub>🌐 Público · Análisis de Sistemas I + Arquitectura de Computadoras I</sub>
 
 **Asistencia biométrica** para catedráticos: sensor de huella **AS608** con **ESP32/Arduino**, app **Android (Kotlin, MVVM)**, **API REST con JWT** y **MySQL 8 en Docker**, con reportes gráficos y polling del sensor en tiempo real.
