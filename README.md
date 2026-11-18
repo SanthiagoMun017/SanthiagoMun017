@@ -1,9 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=230&section=header&text=Santhiago%20Mu%C3%B1oz&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Ingenier%C3%ADa%20en%20Sistemas%20%7C%20Ciberseguridad%20%26%20DFIR%20%7C%20Backend%20%26%20Web&descSize=18&descAlignY=60&animation=fadeIn" alt="Banner" />
-
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=%24+whoami+%E2%86%92+Santhiago+Mu%C3%B1oz;%24+study+--career+%22Ingenier%C3%ADa+en+Sistemas%22+--uni+UMG;%24+cert+--irsi+%22Ciberseguridad+%26+DFIR%22+%E2%9C%94;%24+build+--backend+Java+C%23+--web+Next.js+--mobile+Kotlin;%24+secure+--analyze+--investigate+--learn"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=%24+whoami+%E2%86%92+Santhiago+Mu%C3%B1oz;%24+study+--career+%22Ingenier%C3%ADa+en+Sistemas%22+--uni+UMG;%24+cert+--irsi+%22Ciberseguridad+%26+DFIR%22+%E2%9C%94;%24+build+--backend+Java+C%23+--web+Next.js+--mobile+Kotlin;%24+secure+--analyze+--investigate+--learn"
   alt="Typing SVG"
 />
 
@@ -17,7 +15,7 @@
 
 <br>
 
-## 🧑‍💻 Sobre mí
+<h2 align="center">🧑‍💻 Sobre mí</h2>
 
 ```yaml
 nombre:      Santhiago Muñoz
@@ -29,34 +27,38 @@ enfoque:     [Ciberseguridad, DFIR, Backend, Bases de Datos, Desarrollo Web, IoT
 me_gusta:    Arquitectura limpia · documentación · trabajo en equipo · Docker
 ```
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<div align="center">
 
-### 🛡️ Seguridad
-- Digital Forensics & Incident Response
-- Análisis de evidencia y cadena de custodia
-- Análisis de logs y triage de incidentes
-- Gestión de riesgo de la información
-- Autenticación y autorización (JWT, roles)
+<table align="center">
+<tr>
+<td width="50%" valign="top" align="center">
+
+<h3 align="center">🛡️ Seguridad</h3>
+Digital Forensics & Incident Response<br>
+Análisis de evidencia y cadena de custodia<br>
+Análisis de logs y triage de incidentes<br>
+Gestión de riesgo de la información<br>
+Autenticación y autorización (JWT, roles)<br>
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-### ⚙️ Desarrollo
-- Backend con **Java / Spring Boot** y **C# / .NET**
-- Frontend con **Next.js, React y TypeScript**
-- Apps móviles con **Kotlin** y **React Native**
-- IoT con **ESP32 / Arduino**
-- Bases de datos con **PostgreSQL, SQL Server y MySQL**
+<h3 align="center">⚙️ Desarrollo</h3>
+Backend con **Java / Spring Boot** y **C# / .NET**<br>
+Frontend con **Next.js, React y TypeScript**<br>
+Apps móviles con **Kotlin** y **React Native**<br>
+IoT con **ESP32 / Arduino**<br>
+Bases de datos con **PostgreSQL, SQL Server y MySQL**<br>
 
 </td>
 </tr>
 </table>
 
+</div>
+
 ---
 
-## 🎓 Educación
+<h2 align="center">🎓 Educación</h2>
 
 <div align="center">
 
@@ -69,7 +71,7 @@ me_gusta:    Arquitectura limpia · documentación · trabajo en equipo · Docke
 
 ---
 
-## 🔐 Ciberseguridad & DFIR
+<h2 align="center">🔐 Ciberseguridad & DFIR</h2>
 
 <div align="center">
 
@@ -84,13 +86,15 @@ me_gusta:    Arquitectura limpia · documentación · trabajo en equipo · Docke
 
 ---
 
-## 🚀 Proyectos destacados
+<h2 align="center">🚀 Proyectos destacados</h2>
 
-<table>
+<div align="center">
+
+<table align="center">
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-### ☕ CoffeePOS · *MesaFlow*
+<h3 align="center">☕ CoffeePOS · *MesaFlow*</h3>
 <sub>🔒 Proyecto en equipo · repositorios privados</sub>
 
 Sistema para la operación de un restaurante: **web pública**, **panel operativo con KDS** (pantalla de cocina), **app móvil para meseros** y **API REST** con roles, JWT, rate limiting y documentación OpenAPI. Monorepo con **Turborepo + pnpm** y backend con **PostgreSQL en alta disponibilidad (Patroni)**, Redis, Liquibase y observabilidad.
@@ -98,9 +102,9 @@ Sistema para la operación de un restaurante: **web pública**, **panel operativ
 `Next.js` `TypeScript` `React Native · Expo` `Java 21` `Spring Boot` `PostgreSQL` `Redis` `Docker`
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-### 🧬 [BioAsistencia-UMG](https://github.com/SanthiagoMun017/BioAsistencia-UMG)
+<h3 align="center">🧬 [BioAsistencia-UMG](https://github.com/SanthiagoMun017/BioAsistencia-UMG)</h3>
 <sub>🌐 Público · Análisis de Sistemas I + Arquitectura de Computadoras I</sub>
 
 **Asistencia biométrica** para catedráticos: sensor de huella **AS608** con **ESP32/Arduino**, app **Android (Kotlin, MVVM)**, **API REST con JWT** y **MySQL 8 en Docker**, con reportes gráficos y polling del sensor en tiempo real.
@@ -110,9 +114,9 @@ Sistema para la operación de un restaurante: **web pública**, **panel operativ
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-### 🏫 Sistema de Gestión Escolar
+<h3 align="center">🏫 Sistema de Gestión Escolar</h3>
 <sub>🔒 Privado · Análisis de Sistemas II</sub>
 
 Aplicación de escritorio **100 % offline** en **C# / .NET** con capas *Domain · Application · Infrastructure*: alumnos, asistencia, calificaciones, **boletines en Excel/PDF**, respaldos y **instalador propio (Inno Setup)**.
@@ -120,9 +124,9 @@ Aplicación de escritorio **100 % offline** en **C# / .NET** con capas *Domain �
 `C#` `.NET` `Clean Architecture` `Inno Setup`
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-### 🗃️ Proyecto Base de Datos I
+<h3 align="center">🗃️ Proyecto Base de Datos I</h3>
 <sub>🔒 Privado · Bases de Datos I</sub>
 
 Aplicación **Spring Boot 3 + Thymeleaf + JPA** conectada a **SQL Server 2022** en contenedor Docker.
@@ -131,7 +135,7 @@ Aplicación **Spring Boot 3 + Thymeleaf + JPA** conectada a **SQL Server 2022** 
 
 <br>
 
-### 📊 Métodos Numéricos
+<h3 align="center">📊 Métodos Numéricos</h3>
 <sub>🔒 Privado</sub>
 
 Apps en **MATLAB** con distribuciones estadísticas, generación de datos y gestión de usuarios con base de datos.
@@ -142,9 +146,11 @@ Apps en **MATLAB** con distribuciones estadísticas, generación de datos y gest
 </tr>
 </table>
 
+</div>
+
 ---
 
-## 🛠️ Stack
+<h2 align="center">🛠️ Stack</h2>
 
 <div align="center">
 
@@ -168,7 +174,7 @@ Apps en **MATLAB** con distribuciones estadísticas, generación de datos y gest
 
 ---
 
-## 📊 Estadísticas
+<h2 align="center">📊 Estadísticas</h2>
 
 <div align="center">
 
@@ -187,7 +193,7 @@ Apps en **MATLAB** con distribuciones estadísticas, generación de datos y gest
 
 ---
 
-## 🧠 Áreas de interés
+<h2 align="center">🧠 Áreas de interés</h2>
 
 <div align="center">
 
@@ -211,7 +217,5 @@ Apps en **MATLAB** con distribuciones estadísticas, generación de datos y gest
 />
 
 ⭐ Gracias por visitar mi perfil
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=110&section=footer" alt="Footer" />
 
 </div>
