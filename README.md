@@ -9,7 +9,7 @@
 
 <br>
 
-Estudiante de **Ingeniería en Sistemas** en la **Universidad Mariano Gálvez (UMG)**, con formación en  
+Estudiante de **Ingeniería en Sistemas** en la **Universidad Mariano Gálvez (UMG)**, con formación completada en  
 **Ciberseguridad y DFIR** en el **Information Risk & Security Institute (IRSI)**.
 
 📍 Guatemala
@@ -20,7 +20,7 @@ Estudiante de **Ingeniería en Sistemas** en la **Universidad Mariano Gálvez (U
 
 ## 👨‍💻 Sobre mí
 
-🔐 Formándome en **Ciberseguridad** y **Digital Forensics & Incident Response (DFIR)**  
+🔐 Formación completada en **Ciberseguridad** y **Digital Forensics & Incident Response (DFIR)** (IRSI)  
 🎓 Ingeniería en Sistemas (UMG) + estudios en **IRSI**  
 🗄️ Bases de datos relacionales: **SQL Server** y **MySQL**, con **Docker** para los entornos  
 ⚙️ Backend con **Java + Spring Boot** y **C# / .NET**  
@@ -67,18 +67,6 @@ Estudiante de **Ingeniería en Sistemas** en la **Universidad Mariano Gálvez (U
 Sistema de **control de asistencia biométrica** para catedráticos: sensor de huella **AS608** con **ESP32/Arduino**, app **Android (Kotlin, MVVM)**, **API REST con JWT** y **MySQL 8 en Docker**. Proyecto final de Análisis de Sistemas I y Arquitectura de Computadoras I.  
 `Kotlin` `C++` `PHP` `MySQL` `Docker` `JWT` `Retrofit`
 
-### 🛒 [ByteMarket – 1erExamParcial_DW_SM](https://github.com/SanthiagoMun017/1erExamParcial_DW_SM)
-Tienda en línea de hardware y componentes de computadora con **Next.js 16 (App Router)**, **TypeScript estricto**, **Tailwind CSS v4** y **Zustand**, organizada en arquitectura por capas y documentada.  
-`Next.js` `React 19` `TypeScript` `Tailwind` `Zustand`
-
-### 🎸 [LabGuitarras](https://github.com/SanthiagoMun017/LabGuitarras)
-Aplicación web de venta de guitarras construida con **Next.js, React y TypeScript**.  
-`Next.js` `React` `TypeScript`
-
-### 🎬 [DesarrolloWeb](https://github.com/SanthiagoMun017/DesarrolloWeb)
-Repositorio del curso de Desarrollo Web: JavaScript/TypeScript, DTOs, entidades, mappers y servicios.  
-`JavaScript` `TypeScript` `HTML` `CSS`
-
 ### 🏫 Sistema de Gestión Escolar *(repositorio privado)*
 Aplicación de escritorio **offline** en **C# / .NET** (arquitectura Domain · Application · Infrastructure) para gestionar alumnos, asistencia, calificaciones, boletines en Excel/PDF y respaldos, con instalador propio (**Inno Setup**). Proyecto final de Análisis de Sistemas II.  
 `C#` `.NET` `Inno Setup` `Clean Architecture`
@@ -122,7 +110,7 @@ Apps en **MATLAB** con distribuciones estadísticas, generación de datos y gest
 
 ---
 
-## 🎯 Actualmente aprendiendo
+## 🧠 Áreas de interés
 
 <div align="center">
 
